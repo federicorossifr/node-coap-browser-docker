@@ -1,0 +1,3 @@
+[submodule "node-coap-browser"]
+	path = node-coap-browser
+	url = git@github.com:federicorossifr/node-coap-browser.git
